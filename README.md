@@ -1,1 +1,1 @@
-!(cofeedesc.jpg)
+![Image of Description](cofeedesc.jpg)
