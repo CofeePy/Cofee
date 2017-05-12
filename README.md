@@ -1,3 +1,3 @@
 <center>
-<img src="cofeedesc.jpg">
+<img src="cofeedesc.jpg" />
 </center>
